@@ -1,7 +1,7 @@
 <!-- Banner / Logo -->
 <p align="center">
   <!-- Replace with your own image file once uploaded to profile/ -->
-  <img src="./banner.png" alt="Beyond Geeks & Voyage Banner" width="100%" />
+  <img src="./banner.PNG" alt="Beyond Geeks & Voyage Banner" width="100%" />
 </p>
 
 # 🦉Beyond Geeks & Voyage
