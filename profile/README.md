@@ -4,7 +4,8 @@
   <img src="./banner.png" alt="Beyond Geeks & Voyage Banner" width="100%" />
 </p>
 
-# 🌍 Beyond Geeks & Voyage
+# 🦉![Uploading CorujaBiriguijonsonExtremePathGIF.gif…]()
+ Beyond Geeks & Voyage
 
 Welcome to our little corner of the internet.  
 We’re a gathering of builders, tinkerers, and wanderers who believe technology should do more than just work. It should protect, connect, and guide us toward a better tomorrow.
