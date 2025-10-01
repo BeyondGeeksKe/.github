@@ -1,3 +1,8 @@
+
+<p align="center">
+  <h3><em>“Only Ones and Zeros.”</em></h3>
+  Everything begins there — infinite worlds from the simplest code.
+</p>
 <!-- Banner / Logo -->
 <p align="center">
   <!-- Replace with your own image file once uploaded to profile/ -->
